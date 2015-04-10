@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="The Doctors" type="boolean" value="false" -->
+</head>
+
+<body>
+<table width="1000">
+  <tr>
+    <td><a href="../Website/index.html">Home</a></td>
+    <td><a href="../Website/the-doctors/index.html">The Doctors</a></td>
+    <td><p><a href="../Website/companions/index.html">The Companions</a></p></td>
+    <td><a href="../Website/villains/index.html">The Villains</a></td>
+  </tr>
+  <tr>
+    <td colspan="4">{Banners goes here}</td>
+  </tr>
+</table>
+<table width="1000">
+  <tr>
+    <td><!-- TemplateBeginIf cond="_document['The Doctors']" -->
+      <ul>
+        <li>The First Doctor </li>
+        <li></li>
+      </ul>
+    <!-- TemplateEndIf --></td>
+    <td><!-- TemplateBeginEditable name="Master content" -->{Content}<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+</body>
+</html>
