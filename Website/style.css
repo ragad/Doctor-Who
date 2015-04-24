@@ -11,3 +11,23 @@ body {
 	margin-bottom: 25px;
 	margin-left: 0px;
 }
+body {
+}
+.insertimage2 {
+	margin-right: 50px;
+	padding: 25px;
+	border: 10px solid #29C8D5;
+	margin-bottom: 25px;
+	float: left;
+	background-color: #F8FDFD;
+}
+.insertimage3 {
+	padding: 25px;
+	margin-top: 0px;
+	margin-right: 50px;
+	margin-left: 0px;
+	border: 10px  #1821DC;
+	margin-bottom: 25px;
+	background-color: #17A2DC;
+	float: left;
+}
